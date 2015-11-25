@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://theoblogs.github.io
+title: theo blogs
+tagline: thanks for reading
+description: where I blog about, life, love, and the pursuit of new memes
+paginate: 5
